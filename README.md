@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LazyAxolotl
+- 👀 I’m interested in Free Python E-Books
+- 🌱 I’m currently learning Python
